@@ -20,7 +20,7 @@ The code is a website that displays cars for sale, and the buyer inquires about 
 - **[Visual Studio Code](https://code.visualstudio.com/)**
 
 ## Application Install
-- git clone git@github.com:abdulfatah1996/carDeal.git
+
 - cd carDeal
 - composer install
 - copy .env.example to .env
@@ -36,6 +36,6 @@ The code is a website that displays cars for sale, and the buyer inquires about 
 - https://youtu.be/PWDjOHFbddk.
 
 ## Social Media
-- **[Facebook](https://www.facebook.com/abdelfatahMain)**
-- **[Twitter](https://twitter.com/abdelfatah_1996)**
-- **[Youtube](https://www.youtube.com/channel/UCG-AGtKVzTwCIfiL0J3-6_w)**
+
+- **[Linkdin](https://in.linkedin.com/in/aman-sodagar-0b344723a?trk=people-guest_people_search-card)**
+  

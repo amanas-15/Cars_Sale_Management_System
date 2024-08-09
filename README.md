@@ -37,5 +37,5 @@ The code is a website that displays cars for sale, and the buyer inquires about 
 
 ## Social Media
 
-- **[Linkdin](https://in.linkedin.com/in/aman-sodagar-0b344723a?trk=people-guest_people_search-card)**
+- **[linkedin](https://in.linkedin.com/in/aman-sodagar-0b344723a?trk=people-guest_people_search-card)**
   

@@ -35,6 +35,18 @@ The code is a website that displays cars for sale, and the buyer inquires about 
 ## Application Run
 - https://youtu.be/PWDjOHFbddk.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/2b9bd5b2-a057-420b-ad49-64e00e904de9)
+![image](https://github.com/user-attachments/assets/235978b0-307a-4cd0-b97d-105ccf35091c)
+![image](https://github.com/user-attachments/assets/1be77ad4-252f-4b77-b508-c615689caff1)
+![image](https://github.com/user-attachments/assets/800f3d0d-98ae-4c11-a60e-00c26d062ad5)
+![image](https://github.com/user-attachments/assets/8c6b80b1-bd6a-4ac2-9758-3a747ae398bf)
+
+
+
+
+
+
 ## Social Media
 
 - **[linkedin](https://in.linkedin.com/in/aman-sodagar-0b344723a?trk=people-guest_people_search-card)**
